@@ -44,9 +44,8 @@ const speak = () => {
     return;
   }
   if (textInput.value !== "") {
-    // Add background animation
-    body.style.background = "#141414 url(img/wave.gif)";
-    body.style.backgroundRepeat = "repeat-x";
+    body.style.background = "#fff";
+
     body.style.backgroundSize = "100% 100%";
 
     // Get speak text
