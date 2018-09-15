@@ -1,14 +1,15 @@
 {
-  "name": "text-to-voice",
+  "name": "TextVoice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://supriyodey.github.io/TextVoice",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
