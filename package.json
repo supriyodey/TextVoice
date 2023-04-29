@@ -11,6 +11,6 @@
   "license": "ISC",
   "homepage": "https://supriyodey.github.io/TextVoice",
   "dependencies": {
-    "gh-pages": "^1.2.0"
+    "gh-pages": "^5.0.0"
   }
 }
